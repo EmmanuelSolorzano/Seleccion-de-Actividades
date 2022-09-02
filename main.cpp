@@ -1,3 +1,4 @@
+//To run the program use the following commands (they're for optimize the inputs):
 //g++ -o main main.cpp
 //./main < inputs.txt
 #include <iostream>
